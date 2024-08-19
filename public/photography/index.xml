@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Photography on Ali Hindy</title>
-    <link>https://ali-hindy.github.io/photography/</link>
+    <link>https://ali.hindy.co/photography/</link>
     <description>Recent content in Photography on Ali Hindy</description>
     <generator>Hugo -- 0.133.0</generator>
     <language>en</language>
-    <atom:link href="https://ali-hindy.github.io/photography/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ali.hindy.co/photography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stanford</title>
-      <link>https://ali-hindy.github.io/photography/stanford/</link>
+      <link>https://ali.hindy.co/photography/stanford/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/photography/stanford/</guid>
+      <guid>https://ali.hindy.co/photography/stanford/</guid>
       <description>Photographs taken by me.</description>
     </item>
   </channel>

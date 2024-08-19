@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Ali Hindy</title>
-    <link>https://ali-hindy.github.io/projects/</link>
+    <link>https://ali.hindy.co/projects/</link>
     <description>Recent content in Projects on Ali Hindy</description>
     <generator>Hugo -- 0.133.0</generator>
     <language>en</language>
-    <atom:link href="https://ali-hindy.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ali.hindy.co/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Links</title>
-      <link>https://ali-hindy.github.io/projects/useful_links/</link>
+      <link>https://ali.hindy.co/projects/useful_links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/projects/useful_links/</guid>
+      <guid>https://ali.hindy.co/projects/useful_links/</guid>
       <description>.</description>
     </item>
   </channel>

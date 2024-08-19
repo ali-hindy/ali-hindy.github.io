@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Computer Science on Ali Hindy</title>
-    <link>https://ali-hindy.github.io/tags/computer-science/</link>
+    <link>https://ali.hindy.co/tags/computer-science/</link>
     <description>Recent content in Computer Science on Ali Hindy</description>
     <generator>Hugo -- 0.133.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ali-hindy.github.io/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ali.hindy.co/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Future of Machine Learning (2024)</title>
-      <link>https://ali-hindy.github.io/blog/0817_future_of_machine_learning/</link>
+      <link>https://ali.hindy.co/blog/0817_future_of_machine_learning/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/blog/0817_future_of_machine_learning/</guid>
+      <guid>https://ali.hindy.co/blog/0817_future_of_machine_learning/</guid>
       <description>My thoughts on the future of machine learning, as of August 2024.</description>
     </item>
     <item>
       <title>Natural Language Processing</title>
-      <link>https://ali-hindy.github.io/blog/natural-language-processing/</link>
+      <link>https://ali.hindy.co/blog/natural-language-processing/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/blog/natural-language-processing/</guid>
+      <guid>https://ali.hindy.co/blog/natural-language-processing/</guid>
       <description>A high level overview of natural language processing.</description>
     </item>
     <item>
       <title>Digital Identity</title>
-      <link>https://ali-hindy.github.io/blog/digital-identity/</link>
+      <link>https://ali.hindy.co/blog/digital-identity/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/blog/digital-identity/</guid>
+      <guid>https://ali.hindy.co/blog/digital-identity/</guid>
       <description>Motivation on the issue of digital identity.</description>
     </item>
     <item>
       <title>An Overview on Cloud Infrastructure</title>
-      <link>https://ali-hindy.github.io/blog/an-overview-on-cloud-infrastructure/</link>
+      <link>https://ali.hindy.co/blog/an-overview-on-cloud-infrastructure/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/blog/an-overview-on-cloud-infrastructure/</guid>
+      <guid>https://ali.hindy.co/blog/an-overview-on-cloud-infrastructure/</guid>
       <description>A brief overview of the cloud infrastructure ecosystem.</description>
     </item>
   </channel>

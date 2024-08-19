@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ali Hindy</title>
-    <link>https://ali-hindy.github.io/</link>
+    <link>https://ali.hindy.co/</link>
     <description>Recent content on Ali Hindy</description>
     <generator>Hugo -- 0.133.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ali-hindy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ali.hindy.co/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Future of Machine Learning (2024)</title>
-      <link>https://ali-hindy.github.io/blog/0817_future_of_machine_learning/</link>
+      <link>https://ali.hindy.co/blog/0817_future_of_machine_learning/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/blog/0817_future_of_machine_learning/</guid>
+      <guid>https://ali.hindy.co/blog/0817_future_of_machine_learning/</guid>
       <description>My thoughts on the future of machine learning, as of August 2024.</description>
     </item>
     <item>
       <title>Natural Language Processing</title>
-      <link>https://ali-hindy.github.io/blog/natural-language-processing/</link>
+      <link>https://ali.hindy.co/blog/natural-language-processing/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/blog/natural-language-processing/</guid>
+      <guid>https://ali.hindy.co/blog/natural-language-processing/</guid>
       <description>A high level overview of natural language processing.</description>
     </item>
     <item>
       <title>Option Pricing - Black-Scholes Derivation</title>
-      <link>https://ali-hindy.github.io/blog/option-pricing/</link>
+      <link>https://ali.hindy.co/blog/option-pricing/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/blog/option-pricing/</guid>
+      <guid>https://ali.hindy.co/blog/option-pricing/</guid>
       <description>An overview of option pricing and derivation of the Black-Scholes Equation.</description>
     </item>
     <item>
       <title>Digital Identity</title>
-      <link>https://ali-hindy.github.io/blog/digital-identity/</link>
+      <link>https://ali.hindy.co/blog/digital-identity/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/blog/digital-identity/</guid>
+      <guid>https://ali.hindy.co/blog/digital-identity/</guid>
       <description>Motivation on the issue of digital identity.</description>
     </item>
     <item>
       <title>An Overview on Cloud Infrastructure</title>
-      <link>https://ali-hindy.github.io/blog/an-overview-on-cloud-infrastructure/</link>
+      <link>https://ali.hindy.co/blog/an-overview-on-cloud-infrastructure/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/blog/an-overview-on-cloud-infrastructure/</guid>
+      <guid>https://ali.hindy.co/blog/an-overview-on-cloud-infrastructure/</guid>
       <description>A brief overview of the cloud infrastructure ecosystem.</description>
     </item>
     <item>
       <title>Location</title>
-      <link>https://ali-hindy.github.io/location/</link>
+      <link>https://ali.hindy.co/location/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/location/</guid>
+      <guid>https://ali.hindy.co/location/</guid>
       <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
     </item>
     <item>
       <title>Office Hours</title>
-      <link>https://ali-hindy.github.io/officehours/</link>
+      <link>https://ali.hindy.co/officehours/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/officehours/</guid>
+      <guid>https://ali.hindy.co/officehours/</guid>
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
     <item>
       <title>How Money Works</title>
-      <link>https://ali-hindy.github.io/blog/how-money-works/</link>
+      <link>https://ali.hindy.co/blog/how-money-works/</link>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/blog/how-money-works/</guid>
+      <guid>https://ali.hindy.co/blog/how-money-works/</guid>
       <description>An article based on Lyn Alden&amp;#39;s book, How Money Works.</description>
     </item>
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>https://ali-hindy.github.io/data/data1/</link>
+      <link>https://ali.hindy.co/data/data1/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/data/data1/</guid>
+      <guid>https://ali.hindy.co/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     <item>
       <title>Unusual Uses For Olive Oil</title>
-      <link>https://ali-hindy.github.io/papers/paper1/</link>
+      <link>https://ali.hindy.co/papers/paper1/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/papers/paper1/</guid>
+      <guid>https://ali.hindy.co/papers/paper1/</guid>
       <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
     </item>
     <item>
       <title>The Finer Points of Sausage Dogs</title>
-      <link>https://ali-hindy.github.io/papers/paper2/</link>
+      <link>https://ali.hindy.co/papers/paper2/</link>
       <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/papers/paper2/</guid>
+      <guid>https://ali.hindy.co/papers/paper2/</guid>
       <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
     </item>
     <item>
       <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>https://ali-hindy.github.io/courses/course1/</link>
+      <link>https://ali.hindy.co/courses/course1/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/courses/course1/</guid>
+      <guid>https://ali.hindy.co/courses/course1/</guid>
       <description>This graduate course presents classical results in Romance philology.</description>
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
-      <link>https://ali-hindy.github.io/books/book1/</link>
+      <link>https://ali.hindy.co/books/book1/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/books/book1/</guid>
+      <guid>https://ali.hindy.co/books/book1/</guid>
       <description>This book discusses Portugese irregular verbs in great details.</description>
     </item>
     <item>
       <title>Profanity in Early Irish</title>
-      <link>https://ali-hindy.github.io/courses/course2/</link>
+      <link>https://ali.hindy.co/courses/course2/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/courses/course2/</guid>
+      <guid>https://ali.hindy.co/courses/course2/</guid>
       <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
     <item>
       <title>Links</title>
-      <link>https://ali-hindy.github.io/projects/useful_links/</link>
+      <link>https://ali.hindy.co/projects/useful_links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/projects/useful_links/</guid>
+      <guid>https://ali.hindy.co/projects/useful_links/</guid>
       <description>.</description>
     </item>
     <item>
       <title>Stanford</title>
-      <link>https://ali-hindy.github.io/photography/stanford/</link>
+      <link>https://ali.hindy.co/photography/stanford/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ali-hindy.github.io/photography/stanford/</guid>
+      <guid>https://ali.hindy.co/photography/stanford/</guid>
       <description>Photographs taken by me.</description>
     </item>
   </channel>
