@@ -10,7 +10,7 @@
 <meta name="description" content="I am a Masters Student in Computer Science at Stanford University. My goal is to advance the development of intelligent systems that understand the world around them. My interests include Mathematics, Philosophy, Finance, Psychology, and more. In my spare time, I play racket sports, shoot film, and search for new vinyl records. I&#39;m based in SF.">
 <meta name="author" content="Ali Hindy">
 <link rel="canonical" href="https://ali-hindy.github.io/tags/dataset/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.e690afcd5c523330d5c8b4d746eb158361600a015e99518d4d246a6ccab0cc19.css" integrity="sha256-5pCvzVxSMzDVyLTXRusVg2FgCgFemVGNTSRqbMqwzBk=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.a4c7743c7e78b08775cb013ed344962c383552b18400cdc6fcab7ac1cd9d3a52.css" integrity="sha256-pMd0PH54sId1ywE&#43;00SWLDg1UrGEAM3G/Kt6wc2dOlI=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://ali-hindy.github.io/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://ali-hindy.github.io/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://ali-hindy.github.io/favicon-32x32.png">
@@ -68,6 +68,12 @@
 </head>
 
 <body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    }
+
+</script>
 
 <header class="header">
     <nav class="nav">
@@ -77,21 +83,41 @@
                     height="18"
                     width="18">Ali Hindy</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://ali-hindy.github.io/papers/" title="Photography">
+                <a href="https://ali-hindy.github.io/photography/" title="Photography">
                     <span>Photography</span>
                 </a>
             </li>
             <li>
-                <a href="https://ali-hindy.github.io/courses/" title="Projects">
+                <a href="https://ali-hindy.github.io/projects/" title="Projects">
                     <span>Projects</span>
                 </a>
             </li>
             <li>
-                <a href="https://ali-hindy.github.io/data/" title="Blog">
+                <a href="https://ali-hindy.github.io/blog/" title="Blog">
                     <span>Blog</span>
                 </a>
             </li>
@@ -119,7 +145,7 @@
   <div class="entry-content">
     <p>This dataset contains all irregular verbs in known Romance languages.</p>
   </div>
-  <footer class="entry-footer"><span title='2013-03-07 00:00:00 +0000 UTC'>March 2013</span>&nbsp;&middot;&nbsp;Patrick Fitzcarron O'Leary,&thinsp;Florianus Prinzel,&thinsp;Walter Schoeffler-Henschell,&thinsp;Detlev Amadeus Unterholzer,&thinsp;Dieter Vogelsang,&thinsp;Moritz-Maria von Igelfeld</footer>
+  <footer class="entry-footer"><span title='2013-03-07 00:00:00 +0000 UTC'>March 2013</span>&nbsp;&middot;&nbsp;3 min&nbsp;&middot;&nbsp;Patrick Fitzcarron O'Leary,&thinsp;Florianus Prinzel,&thinsp;Walter Schoeffler-Henschell,&thinsp;Detlev Amadeus Unterholzer,&thinsp;Dieter Vogelsang,&thinsp;Moritz-Maria von Igelfeld</footer>
   <a class="entry-link" aria-label="post link to List of Irregular Verbs Across Romance Languages" href="https://ali-hindy.github.io/data/data1/"></a>
 </article>
     </main>
@@ -162,6 +188,18 @@
             }
         });
     });
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

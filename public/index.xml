@@ -6,8 +6,43 @@
     <description>Recent content on Ali Hindy</description>
     <generator>Hugo -- 0.133.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ali-hindy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of Machine Learning (2024)</title>
+      <link>https://ali-hindy.github.io/blog/0817_future_of_machine_learning/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ali-hindy.github.io/blog/0817_future_of_machine_learning/</guid>
+      <description>My thoughts on the future of machine learning, as of August 2024.</description>
+    </item>
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://ali-hindy.github.io/blog/natural-language-processing/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://ali-hindy.github.io/blog/natural-language-processing/</guid>
+      <description>A high level overview of natural language processing.</description>
+    </item>
+    <item>
+      <title>Option Pricing - Black-Scholes Derivation</title>
+      <link>https://ali-hindy.github.io/blog/option-pricing/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://ali-hindy.github.io/blog/option-pricing/</guid>
+      <description>An overview of option pricing and derivation of the Black-Scholes Equation.</description>
+    </item>
+    <item>
+      <title>Digital Identity</title>
+      <link>https://ali-hindy.github.io/blog/digital-identity/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ali-hindy.github.io/blog/digital-identity/</guid>
+      <description>Motivation on the issue of digital identity.</description>
+    </item>
+    <item>
+      <title>An Overview on Cloud Infrastructure</title>
+      <link>https://ali-hindy.github.io/blog/an-overview-on-cloud-infrastructure/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ali-hindy.github.io/blog/an-overview-on-cloud-infrastructure/</guid>
+      <description>A brief overview of the cloud infrastructure ecosystem.</description>
+    </item>
     <item>
       <title>Location</title>
       <link>https://ali-hindy.github.io/location/</link>
@@ -21,6 +56,13 @@
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>https://ali-hindy.github.io/officehours/</guid>
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
+    </item>
+    <item>
+      <title>How Money Works</title>
+      <link>https://ali-hindy.github.io/blog/how-money-works/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ali-hindy.github.io/blog/how-money-works/</guid>
+      <description>An article based on Lyn Alden&amp;#39;s book, How Money Works.</description>
     </item>
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>
@@ -63,6 +105,20 @@
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
       <guid>https://ali-hindy.github.io/courses/course2/</guid>
       <description>This undergraduate course discusses profanity in Early Irish.</description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>https://ali-hindy.github.io/projects/useful_links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ali-hindy.github.io/projects/useful_links/</guid>
+      <description>.</description>
+    </item>
+    <item>
+      <title>Stanford</title>
+      <link>https://ali-hindy.github.io/photography/stanford/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ali-hindy.github.io/photography/stanford/</guid>
+      <description>Photographs taken by me.</description>
     </item>
   </channel>
 </rss>

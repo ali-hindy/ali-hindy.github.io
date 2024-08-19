@@ -15,13 +15,13 @@ menu:
           url: books/
           weight: 5
         - name: Photography
-          url: papers/
+          url: photography/
           weight: 2
         - name: Projects
-          url: courses/
+          url: projects/
           weight: 3
         - name: Blog
-          url: data/
+          url: blog/
           weight: 4
 
 
@@ -32,16 +32,16 @@ params:
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
+    disableThemeToggle: false
+    ShowShareButtons: true
+    ShowReadingTime: true
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
-    ShowPostNavLinks: false
+    ShowPostNavLinks: true
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["books","projects","photography","blog"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -59,15 +59,13 @@ params:
           imageTitle: Ali Hindy
           buttons:
             - name: Blog
-              url: data/
+              url: blog/
             - name: Books
               url: books/
             - name: Projects
-              url: courses/
+              url: projects/
             - name: Photography
-              url: papers/
-
-
+              url: photography/
 
     socialIcons:
         - name: CV
