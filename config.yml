@@ -26,7 +26,7 @@ menu:
 
 
 params:
-    description: "I am a Masters Student in Computer Science at Stanford University. My goal is to advance the development of intelligent systems that understand the world around them. My interests include Mathematics, Philosophy, Finance, Psychology, and more. In my spare time, I play racket sports, shoot film, and search for new vinyl records. I'm based in SF."
+    description: "I am a Masters Student in Computer Science at Stanford University. My goal is to advance the development of intelligent systems that understand the world around them. I'm currently excited about building production systems that reliably leverage AI. My interests include Mathematics, Philosophy, Finance, Psychology, and more. In my spare time, I play racket sports, shoot film, and travel. I'm based in SF."
     author: Ali Hindy
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Ali Hindy
-          subtitle: "I am a Masters Student in Computer Science at Stanford University. My goal is to advance the development of intelligent systems that understand the world around them. My interests include Mathematics, Philosophy, Finance, Psychology, and more. In my spare time, I play racket sports, shoot film, and search for new vinyl records. I'm based in SF."
+          subtitle: "I am a Masters Student in Computer Science at Stanford University. My goal is to advance the development of intelligent systems that understand the world around them. I'm currently excited about building production systems that reliably leverage AI. My interests include Mathematics, Philosophy, Finance, Psychology, and more. In my spare time, I play racket sports, shoot film, and travel. I'm based in SF."
           imageUrl: "profile_pic.png"
           imageWidth: 160
           imageHeight: 160

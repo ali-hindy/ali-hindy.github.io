@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ali.hindy.co/</loc>
-    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ali.hindy.co/blog/</loc>
-    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ali.hindy.co/tags/computer-science/</loc>
-    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
+    <loc>https://ali.hindy.co/tags/mathematics/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ali.hindy.co/blog/on-incompleteness/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ali.hindy.co/tags/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ali.hindy.co/tags/computer-science/</loc>
     <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ali.hindy.co/blog/0817_future_of_machine_learning/</loc>

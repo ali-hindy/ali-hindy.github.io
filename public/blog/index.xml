@@ -4,10 +4,17 @@
     <title>Blog on Ali Hindy</title>
     <link>https://ali.hindy.co/blog/</link>
     <description>Recent content in Blog on Ali Hindy</description>
-    <generator>Hugo -- 0.133.0</generator>
+    <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ali.hindy.co/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>on incompleteness</title>
+      <link>https://ali.hindy.co/blog/on-incompleteness/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali.hindy.co/blog/on-incompleteness/</guid>
+      <description>An overview of incompleteness.</description>
+    </item>
     <item>
       <title>The Future of Machine Learning (2024)</title>
       <link>https://ali.hindy.co/blog/0817_future_of_machine_learning/</link>
