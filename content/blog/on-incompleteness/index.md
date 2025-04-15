@@ -14,7 +14,7 @@ disableAnchoredHeadings: false
 
 The goal of formalization in mathematics has been to create complete systems capable of proving all true statements within their domain. Concretely, given a set of axioms and inference rules, can we derive every true statement in a given mathematical theory? For centuries, mathematicians implicitly assumed this was possible. However, a series of stunning discoveries in the early 20th century revealed inherent limitations to what formal systems can prove about themselves.
 
-## The Key Idea: Countable vs. Uncountable
+## The Key Idea: Countable and Uncountable Sets
 
 The set of real numbers and the set of rational numbers present our first glimpse into a fundamental pattern. The rational numbers are **countable**—they can be arranged in a sequence and listed one by one. The real numbers, however, are **uncountable**—they cannot be enumerated in any sequence, no matter how clever our arrangement.
 
@@ -29,7 +29,7 @@ We can always construct a new number $d = 0.b₁b₂b₃...$ where $bₙ$ differ
 
 So what? This diagonalization argument applies to many other areas, revealing the inherent "incompleteness" of our world.
 
-## Problems vs. Algorithms
+## Problems and Algorithms
 
 The set of problems and the set of algorithms that can solve them follow exactly this pattern:
 
@@ -39,7 +39,7 @@ Using diagonalization, we can construct a problem that no algorithm in our enume
 
 This is exactly the proof technique used to establish the undecidability of the Halting Problem—there can be no universal algorithm that determines whether arbitrary programs will terminate or run forever. The set of possible program behaviors is simply too large to be captured by any countable set of algorithms.
 
-## Problems vs. Proofs
+## Statements and Proofs
 
 The relationship between mathematical problems and formal proofs exhibits the same pattern:
 
